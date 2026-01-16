@@ -1,4 +1,5 @@
 # Exercicios_do_Curso_de_Php
+
 Exercícios feitos no curso PHP do Zero a Maestria + 4 Projetos incríveis
 
 ## 📚 Exercícios Disponíveis
@@ -13,6 +14,7 @@ Exercícios feitos no curso PHP do Zero a Maestria + 4 Projetos incríveis
 Este projeto utiliza XAMPP para executar o servidor PHP localmente.
 
 ### Pré-requisitos
+
 - XAMPP instalado
 
 ### Como Executar
